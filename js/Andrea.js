@@ -5,18 +5,18 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 // Fetch every component's HTML
 async function loadAllComponents() {
-    const components = [
-        ['site-header', '../components/portfolio/Andrea/header.html'],
-        ['site-hero', '../components/portfolio/Andrea/hero.html'],
-        ['site-bio', '../components/portfolio/Andrea/bio.html'],
-        ['site-experience', '../components/portfolio/Andrea/experience.html'],
-        ['site-education', '../components/portfolio/Andrea/education.html'],
-        ['site-activities', '../components/portfolio/Andrea/activities.html'],
-        ['site-certifications', '../components/portfolio/Andrea/certifications.html'],
-        ['site-skills', '../components/portfolio/Andrea/skills.html'],
-        ['site-projects', '../components/portfolio/Andrea/projects.html'],
-        ['site-contact', '../components/portfolio/Andrea/contact.html'],
-        ['site-footer', '../components/portfolio/Andrea/footer.html'],
+        const components = [
+        ['site-header', '../components/header.html'],
+        ['site-hero', '../components/hero.html'],
+        ['site-bio', '../components/bio.html'],
+        ['site-experience', '../components/experience.html'],
+        ['site-education', '../components/education.html'],
+        ['site-activities', '../components/activities.html'],
+        ['site-certifications', '../components/certifications.html'],
+        ['site-skills', '../components/skills.html'],
+        ['site-projects', '../components/projects.html'],
+        ['site-contact', '../components/contact.html'],
+        ['site-footer', '../components/footer.html'],
     ];
 
     try {
