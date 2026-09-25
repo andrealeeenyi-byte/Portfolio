@@ -1,9 +1,7 @@
 # Personal Portfolio
-# NOTE: Open with Live Server 
+**NOTE: Open with Live Server 
 
 A personal portfolio website showcasing my education, skills, projects, and experiences as a Software Engineering student. It highlights my development projects, technical skills, and involvement in university activities.
-
-___________________________________________________________________________________________________________________________________________________________
 
 # File Structure
 Portfolio
